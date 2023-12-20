@@ -30,9 +30,9 @@ To get started with the Hugging Face sentiment analysis pipeline, follow these s
    ```
 
 3. **Open Jupyter Notebook:**
-   Launch the Jupyter Notebook and open the `Hugging Face.ipynb.ipynb` file:
+   Launch the Jupyter Notebook and open the `Hugging Face.ipynb` file:
    ```bash
-   jupyter notebook Hugging Face.ipynb.ipynb
+   jupyter notebook Hugging Face.ipynb
    ```
 
 4. **Follow the Notebook:**
